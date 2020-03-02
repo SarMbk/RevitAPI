@@ -1,0 +1,6 @@
+C:\Users\ManarbekS\Desktop\LyndaRevitAPI\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\ManarbekS\Desktop\LyndaRevitAPI\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\ManarbekS\Desktop\LyndaRevitAPI\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\ManarbekS\Desktop\LyndaRevitAPI\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\ManarbekS\Desktop\LyndaRevitAPI\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\ManarbekS\Desktop\LyndaRevitAPI\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache

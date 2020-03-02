@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>30801B55-F701-412F-9599-40E816BB76E6</AddInId>
+    <FullClassName>MyRevitCommands.GetElementId</FullClassName>
+    <Text>GetElementId</Text>
+    <Description>Get the Id from an element</Description>
+    <VendorId>SarFromLiRo</VendorId>
+    <VendorDescription>LearningRevitApi</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>F8DEDF12-3A93-4F37-828A-59B569AE6C80</AddInId>
+    <FullClassName>MyRevitCommands.CollectWindows</FullClassName>
+    <Text>CollectWindows</Text>
+    <Description>Count number of all windows in the project</Description>
+    <VendorId>SarFromLiRo</VendorId>
+    <VendorDescription>LearningRevitApi</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+
+<AddIn Type="Command">
+  <Name>MyRevitCommands</Name>
+  <Assembly>MyRevitCommands.dll</Assembly>
+  <AddInId>2FE5B2E0-5AFD-4AEB-BDB7-B9A340A2BFBA</AddInId>
+  <FullClassName>MyRevitCommands.DeleteElement</FullClassName>
+  <Text>DeleteElement</Text>
+  <Description>Deletes picked object</Description>
+  <VendorId>SarFromLiRo</VendorId>
+  <VendorDescription>LearningRevitApi</VendorDescription>
+  <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+</AddIn>
+
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>346FBB38-FA1C-4333-ABDA-681C02AFED08</AddInId>
+    <FullClassName>MyRevitCommands.PlaceFamily</FullClassName>
+    <Text>PlaceFamily</Text>
+    <Description>Places a Family</Description>
+    <VendorId>SarFromLiRo</VendorId>
+    <VendorDescription>LearningRevitApi</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>683024B4-F6A6-45E7-93A7-30B22193A926</AddInId>
+    <FullClassName>MyRevitCommands.PlaceLineElement</FullClassName>
+    <Text>PlaceWalls</Text>
+    <Description>Places a Walls</Description>
+    <VendorId>SarFromLiRo</VendorId>
+    <VendorDescription>LearningRevitApi</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>8D4ED22D-AD03-49A0-AD14-6EEA126071DF</AddInId>
+    <FullClassName>MyRevitCommands.PlaceLoopElement</FullClassName>
+    <Text>PlaceFloor</Text>
+    <Description>Places a floor</Description>
+    <VendorId>SarFromLiRo</VendorId>
+    <VendorDescription>LearningRevitApi</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>E7E2C760-D629-4E6F-A7E5-F94C708977A9</AddInId>
+    <FullClassName>MyRevitCommands.GetParameter</FullClassName>
+    <Text>GetParameter</Text>
+    <Description>Gets a window parameter</Description>
+    <VendorId>SarFromLiRo</VendorId>
+    <VendorDescription>LearningRevitApi</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>ADFC5570-79BF-41F1-B8B7-A4C87BF91912</AddInId>
+    <FullClassName>MyRevitCommands.SetParameter</FullClassName>
+    <Text>SetParameter</Text>
+    <Description>Sets a window parameter</Description>
+    <VendorId>SarFromLiRo</VendorId>
+    <VendorDescription>LearningRevitApi</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>34531A30-63F2-442B-9F4A-F5028CD6750B</AddInId>
+    <FullClassName>MyRevitCommands.ChangeLocation</FullClassName>
+    <Text>ChangeLocation</Text>
+    <Description>Changes a selected element's location</Description>
+    <VendorId>SarFromLiRo</VendorId>
+    <VendorDescription>LearningRevitApi</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>6B67E318-5EDE-4C51-BDF3-BE6FDC43C96B</AddInId>
+    <FullClassName>MyRevitCommands.EditElement</FullClassName>
+    <Text>EditElement</Text>
+    <Description>Changes a selected element's location and rotates it by 45 degrees</Description>
+    <VendorId>SarFromLiRo</VendorId>
+    <VendorDescription>LearningRevitApi</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  
+  
+  
+</RevitAddIns>
